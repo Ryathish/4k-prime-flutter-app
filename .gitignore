@@ -1,0 +1,15 @@
+.DS_Store
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+.idea/
+android/.gradle/
+android/app/debug/
+android/app/profiling/
+android/app/release/
+*.iml
+*.log
